@@ -1,8 +1,16 @@
 This document is about tiger
+<<<<<<< HEAD
 <<<<<<< 3e1ec58b751f27d8f2adf4ecf81a69a65f6567d0
 Tiger is a good animal
 =======
 Tiger is a bad animal
 >>>>>>> commit on badbranch
+=======
+<<<<<<< ours
+Tiger is a bad animal
+=======
+Tiger is a good animal
+>>>>>>> theirs
+>>>>>>> dd9344d7676bb096fa951087a9728039fbe81b0d
 Tiger eats meat
 
