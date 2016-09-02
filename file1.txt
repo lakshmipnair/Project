@@ -1,4 +1,8 @@
 This document is about tiger
+<<<<<<< ours
 Tiger is a bad animal
+=======
+Tiger is a good animal
+>>>>>>> theirs
 Tiger eats meat
 
